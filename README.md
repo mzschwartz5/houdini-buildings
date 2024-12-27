@@ -1,4 +1,4 @@
-# CIS 5660 HW03 Procedural Buildings
+# CIS 5660 Procedural Buildings
 
 ![Example building output](building.png)
 
